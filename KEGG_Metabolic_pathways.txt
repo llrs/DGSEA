@@ -1,0 +1,166 @@
+Glycolysis-Gluconeogenesis_hsa00010	Core_Glycolysis-Gluconeogenesis_hsa_M00001	Citrate_cycle_TCA_cycle_hsa00020	Pentose_phosphate_pathway_hsa00030	Pentose_and_glucuronate_interconversions_hsa00040	Fructose_and_mannose_metabolism_hsa00051	Galactose_metabolism_hsa00052	Ascorbate_and_aldarate_metabolism_hsa00053	Fatty_acid_biosynthesis_hsa00061	Fatty_acid_elongation_in_mitochondria_hsa00062	Fatty_acid_metabolism_hsa00071	Synthesis_and_degradation_of_ketone_bodies_hsa00072	Steroid_biosynthesis_hsa00100	Primary_bile_acid_biosynthesis_hsa00120	Ubiquinone_and_other_terpenoid-quinone_biosynthesis_hsa00130	Steroid_hormone_biosynthesis_hsa00140	Oxidative_phosphorylation_hsa00190	Purine_metabolism_hsa00230	Pyrimidine_metabolism_hsa00240	Alanine_aspartate_and_glutamate_metabolism_hsa00250	Glycine_serine_and_threonine_metabolism_hsa00260	Cysteine_and_methionine_metabolism_hsa00270	Valine_leucine_and_isoleucine_degradation_hsa00280	Valine_leucine_and_isoleucine_biosynthesis_hsa00290	Lysine_degradation_hsa00310	Arginine_and_proline_metabolism_hsa00330	Histidine_metabolism_hsa00340	Tyrosine_metabolism_hsa00350	Phenylalanine_metabolism_hsa00360	Tryptophan_metabolism_hsa00380	beta-Alanine_metabolism_hsa00410	Taurine_and_hypotaurine_metabolism_hsa00430	Selenocompound_metabolism_hsa00450	Cyanoamino_acid_metabolism_hsa00460	Glutathione_metabolism_hsa00480	Starch_and_sucrose_metabolism_hsa00500	N-Glycan_biosynthesis_hsa00510	Other_glycan_degradation_hsa00511	Mucin_type_O-Glycan_biosynthesis_hsa00512	Other_types_of_O-glycan_biosynthesis_hsa00514	Amino_sugar_and_nucleotide_sugar_metabolism_hsa00520	Butirosin_and_neomycin_biosynthesis_hsa00524	Glycosaminoglycan_degradation_hsa00531	Glycosaminoglycan_biosynthesis-keratan_sulfate_hsa00533	Glycosaminoglycan_biosynthesis-heparan_sulfate_hsa00534	Glycerolipid_metabolism_hsa00561	Inositol_phosphate_metabolism_hsa00562	GlycosylphosphatidylinositolGPI-anchor_biosynthesis_hsa00563	Glycerophospholipid_metabolism_hsa00564	Ether_lipid_metabolism_hsa00565	Arachidonic_acid_metabolism_hsa00590	Linoleic_acid_metabolism_hsa00591	alpha-Linolenic_acid_metabolism_hsa00592	Sphingolipid_metabolism_hsa00600	Glycosphingolipid_biosynthesis-lacto_and_neolacto_series_hsa00601	Glycosphingolipid_biosynthesis-globo_series_hsa00603	Glycosphingolipid_biosynthesis-ganglio_series_hsa00604	Pyruvate_metabolism_hsa00620	Glyoxylate_and_dicarboxylate_metabolism_hsa00630	Propanoate_metabolism_hsa00640	Butanoate_metabolism_hsa00650	One_carbon_pool_by_folate_hsa00670	Riboflavin_metabolism_hsa00740	Vitamin_B6_metabolism_hsa00750	Nicotinate_and_nicotinamide_metabolism_hsa00760	Pantothenate_and_CoA_biosynthesis_hsa00770	Folate_biosynthesis_hsa00790	Retinol_metabolism_hsa00830	Porphyrin_and_chlorophyll_metabolism_hsa00860	Terpenoid_backbone_biosynthesis_hsa00900	Nitrogen_metabolism_hsa00910	Sulfur_metabolism_hsa00920	Metabolism_of_xenobiotics_by_cytochrome_P450_hsa00980	Drug_metabolism-cytochrome_P450_hsa00982	Drug_metabolism-other_enzymes_hsa00983	Biosynthesis_of_unsaturated_fatty_acids_hsa01040	GGPP	Oxidative_phosphorylation_hsa00190_No_vATPase	Oxidative_phosphorylation_hsa00190_No_vATPase_noMTgenes
+ALDOA	ALDOA	DLD	GPI	GUSB	AKR1B1	GLA	MIOX	FASN	PPT1	ACADVL	HMGCS1	SC5DL	CYP46A1	COQ2	HSD17B1	COX4I1	RRM2B	RRM2B	ASPA	SRR	TAT	BCKDHA	BCAT1	AASS	GLS2	FTCD	DCT	ALDH3A1	CAT	ACADM	CSAD	TXNRD2	GGT6	ANPEP	GBA3	ALG14	NEU3	GCNT3	POMGNT1	NAGK	HK1	SGSH	B3GNT2	EXT1	CEL	PIP4K2A	PIGY	PTDSS2	AGPS	EPHX2	CYP1A2	ACOX1	ACER3	B3GNT3	ST3GAL1	ST3GAL1	PDHA1	HYI	ALDH6A1	BDH2	FTCD	TYR	AOX1	BST1	COASY	SPR	ADH1A	CPOX	MVK	CPS1	BPNT1	CYP2B6	ALDH3A1	TPMT	ELOVL2	ALDOA	COX4I1	COX4I1
+ALDOB	ALDOB	OGDH	RBKS	KL	SORD	PFKL	UGDH	OXSM	PPT2	ACADSB	HMGCS2	EBP	CYP7B1	COQ2	HSD17B1	COX4I2	RRM1	RRM1	ACY3	CHDH	ADI1	BCKDHB	BCAT2	BBOX1	GLS	AMDHD1	MAOA	ALDH1A3	EHHADH	ECHS1	GAD1	TXNRD3	GGT1	GGT6	HK1	DPM3	NEU4	GCNT1	POMT1	PGM3	HK2	HPSE2	B3GNT1	EXT2	PNLIPRP3	PIP4K2C	DPM2	PTDSS1	PPAP2A	CYP2B6	CYP3A7	ACOX3	SGPP2	B3GNT3	ST3GAL2	ST3GAL2	PDHA2	ACO1	MCEE	BDH1	GART	ENPP1	PNPO	CD38	ENPP1	FPGS	ADH1B	GUSB	ACAT1	GLUD1	CHST13	CYP2E1	ALDH1A3	HPRT1	HSD17B12	ALDOB	COX4I2	COX4I2
+ALDOC	ALDOC	OGDHL	DERA	RPE	KHK	PFKM	RGN	OLAH	MECR	ACADS	HMGCL	DHCR7	CYP7A1	COQ3	HSD17B2	NDUFC2	RRM2	RRM2	NIT2	ALDH7A1	APIP	DLD	LARS2	ALDH9A1	GLUL	UROC1	MAOB	ALDH3B1	HADH	EHHADH	GAD2	TXNRD1	GGT7	GGT1	HK2	DPM2	NEU1	B4GALT5	POMT2	UAP1	HK2	HPSE2	B4GALT1	EXTL1	LIPC	INPP5B	PIGP	GNPAT	PPAP2C	CYP2C19	CYP2C19	PLA2G4E	SGPP1	FUT9	B3GALT5	GLB1	PDHB	ACO2	PCCA	OXCT1	MTHFD2	ENPP3	PHOSPHO2	NUDT12	ENPP3	DHFR	ADH1C	UGT2B11	ACAT2	GLUD2	CHST11	CYP2F1	ALDH3B1	GMPS	PTPLB	ALDOC	NDUFC2	NDUFC2
+ALDH2	PKLR	DLST	PRPS1L1	LOC729020	PHPT1	PFKP	ALDH2	MCAT	ECHS1	EHHADH	ACAT1	DHCR24	CYP27A1	HPD	HSD17B12	NDUFC1	XDH	CAD	ASNS	GLYCTK	MRI1	ACAT1	LARS	TMLHE	CPS1	HAL	ALDH3A1	ALDH3B2	IDO2	HADHA	CDO1	SEPHS2	GGT5	GGT7	HK2	RFT1	NEU2	ST6GALNAC1	GLT25D2	UAP1L1	HK3	HPSE2	B4GALT3	EXTL3	PNLIP	OCRL	PIGP	LPCAT3	PPAP2B	CYP2C8	CYP2C8	PLB1	ASAH1	FUT4	NAGA	HEXA	PCK1	AFMID	PCCB	OXCT2	MTHFD2L	FLAD1	PDXP	QPRT	PANK4	DHFR	ADH4	UGT2A1	HMGCS1	GLS2	CHST12	CYP1A1	ALDH3B2	ITPA	PTPLA	ALDH2	NDUFC1	NDUFC1
+ALDH1B1	PKM2	SUCLG2	PRPS1	XYLB	MTMR1	GAA	ALDH1B1	ACACA	HADHA	HADH	ACAT2	CYP51A1	AKR1D1	TAT	HSD17B7	NDUFB10	PRPS1L1	UMPS	GOT1	BHMT	MTAP	ACAT2	VARS2	EHMT2	OTC	CARNS1	ALDH1A3	DDC	IDO1	HIBCH	ADO	SEPHS1	GBA3	GGT5	HK3	ALG6	GLB1	ST3GAL1	GLT25D1	GNE	HKDC1	HPSE	B4GALT2	EXTL2	PNLIPRP1	INPP5E	PIGH	LPCAT4	CEPT1	CYP2C9	CYP2C9	PLA2G2D	ASAH2	FUT4	A4GALT	HEXA	PCK2	HAO2	ACSS3	AACS	MTHFD2L	ACP6	PDXK	ENPP1	PANK3	QDPR	ADH5	UGT2B28	HMGCS2	GLS	SULT1E1	CYP1B1	FMO1	XDH	PECR	ALDH1B1	NDUFB10	NDUFB10
+ALDH9A1	ENO1	SUCLG1	PRPS2	AKR1B1	MTMR2	MGAM	ALDH9A1	ACACB	ACAA2	ECHS1	BDH2	TM7SF2	AKR1C4	COQ6	HSD17B8	NDUFB9	PRPS1	PNPT1	GOT2	AGXT	SRM	HMGCS1	VARS	SETD1B	ASS1	DDC	ALDH3B1	AOC2	CYP1A1	MLYCD	GGT6	MARS	SHMT1	GPX6	HKDC1	ALG12	MAN2B2	ST3GAL2	PLOD3	NANS	GCK	GNS	ST3GAL3	B3GAT2	PNLIPRP2	SYNJ1	PIGC	LPCAT2	CHPT1	CYP2C18	CYP2C18	PLA2G2E	DEGS2	FUT3	HEXA	HEXB	PKLR	HAO1	ACSS2	HMGCL	DHFR	ACP1	PSAT1	ENPP3	PANK3	GCH1	ADH6	UGT1A1	HMGCR	HAL	SULT2B1	CYP3A7	FMO2	NAT1	TECR	ALDH9A1	NDUFB9	NDUFB9
+ALDH3A2	ENO2	SUCLA2	TKT	DCXR	MTMR6	AKR1B1	ALDH3A2		HADHB	HADHA	BDH1	FDFT1	AMACR	COQ5	HSD17B6	NDUFB8	PRPS2	POLR3F	DDO	GAMT	AMD1	HMGCS2	IARS	SETD2	ASL	HDC	ALDH3B2	AOC3	CYP1A2	ABAT	GGT1	MARS2	SHMT1	GPX1	GAA	ALG3	MAN2C1	B3GNT6	B3GALTL	NANP		IDS	B4GALT4	B3GAT3	PNPLA3	SYNJ2	PIGX	LPCAT1	EPT1	CYP2J2	CYP2E1	PLA2G2C	DEGS1	FUT5	HEXA	ST8SIA1	PKM2	GRHPR	ACSS1	HMGCS1	DHFR	ACP2		NT5C2	PANK2	GGH	ADH7	UGT2B4	IDI1	ASNS	SULT1A2	CYP2C19	FMO3	UPP2	ACAA1	ALDH3A2	NDUFB8	NDUFB8
+ALDH7A1	ENO3	IDH1	TKTL1	CRYL1	MTMR7	GCK	ALDH7A1		HADH	ACADM	OXCT1	SQLE	ACOX2	COQ7	STS	NDUFB7	PPAT	POLR3G	ASS1	PHGDH	CTH	OXCT1	IARS2	SETD8	ARG1	ALDH2	COMT	MAOA	CYP1B1	CARNS1	GGT7	CCBL2	SHMT2	GPX2	MGAM	MGAT5B	MAN2C1	GALNT6	ST6GAL1	CMAS		GALNS	B3GNT7	B3GAT1	LIPF	IPMK	PIGU	CEPT1	PAFAH1B1	CYP4A11	CYP2J2	PLA2G3	ENPP7	FUT6	HEXB	ST8SIA5	AKR1B1	CS	MUT	HMGCS2	MTHFR	ACP5		NT5C	PPCDC	ALPI	BCMO1	UGT2B7	IDI2	GLUL	SULT1A1	CYP2C8	FMO4	UPP1	HADHA	ALDH7A1	NDUFB7	NDUFB7
+ALDH3A1	PGAM4	IDH2	TKTL2	UGP2	HK1	HK1	UGT2B11			ECI2	OXCT2	LSS	CH25H		STS	NDUFB6	GART	POLR3C	ADSSL1	DMGDH	CBS	OXCT2	PDHA1	SETD8	ARG2	ALDH1B1	ADH1A	MAOB	AANAT	GAD1	GGT5	CCBL1		GPX5	SI	MGAT5	MAN2B1	GALNT5	ST3GAL3	GALT		IDUA	FUT8	B3GALT6	LIPG	PTEN	PIGT	CHPT1	PAFAH1B2	CYP4A11	CYP3A4	PLA2G1B	SMPD3	FUT6	ST8SIA1	SLC33A1	GLO1	MDH1	SUCLG2	ACAT1	MTHFD1	ACPP		NT5E	PPCS	ALPL	ALDH1A1	UGT2B10	IDI2	CTH	SULT1A3	CYP2C9	FMO5	TYMP	ACOX1	ALDH3A1	NDUFB6	NDUFB6
+ALDH1A3	PGAM1	IDH3A	RPIA	UGT2B11	HK2	HK2	UGT2A1			ECI1		NSDHL	HSD17B4		STS	NDUFB4	ATIC	POLR3A	ADSS	CBS	MTR	HMGCL	PDHA2	SUV420H1	NAGS	ALDH9A1	ADH1B	HPD	MAOA	GAD2	BAAT	PSTK		GPX7	ENPP1	DOLPP1	FUCA1	GALNT13	ST6GAL2	GALE		ARSB	CHST1	B4GALT7	MOGAT3	MINPP1	PIGS	PCYT1B	PAFAH1B3	ALOX15B	CYP3A5	PLA2G2A	SMPD4	B4GALT4	FUT9	B3GALT4	LDHD	MDH2	SUCLG1	ACAT2	MTHFS	ACPT		NT5C3	UPB1	ALPP	ALDH1A2	UGT2B15	MVD	AMT	PAPSS2	CYP2C18	CYP3A7	DPYD	ACOX3	ALDH1A3	NDUFB4	NDUFB4
+ALDH3B1	PGAM2	IDH3B	RPE	UGT2A1	HK2	HK2	UGT2B28			ACAT1		C5orf4	SCP2		SULT2B1	NDUFB3	ADSL	POLR3H	ASL	CTH	BHMT	AUH	PDHB	WHSC1L1	ACY1	ALDH3A2	ADH1C	TAT	MAOB	SMS		SEPSECS		GPX4	ENPP3	FUT8	FUCA2	GALNTL2	LFNG	UGDH		GLB1	CHST6	XYLT1	DGAT2	INPP5J	PIGM	CHKA	PAFAH2	ALOX12B	CYP3A43	PLA2G4A	SMPD1	B4GALT3	FUT1	B4GALNT1	HAGH	GLYCTK	SUCLA2	EHHADH	MTHFS	RFK		NT5M	DPYS	ALPPL2	LRAT	UGT2B17	PMVK	CA5B	PAPSS1	CYP3A4	CYP3A4	DPYS	ACOT2	ALDH3B1	NDUFB3	NDUFB3
+ALDH3B2	GAPDH	IDH3G	LOC729020	UGT2B28	HK3	HK3	UGT1A1			ACAT2		C5orf4	SLC27A5		CYP11A1	NDUFB2	PAICS	POLR2J2	ADSL	GATM	MAT2B	MCCC1		ASH1L	OAT	ALDH7A1	ADH4	GOT1	DDC	SRM		CTH		TXNDC12	PGM2L1	MGAT4C	AGA	GALNTL5	MFNG	GNPDA1		HYAL4	ST3GAL1	XYLT2	DGAT1	INPP5A	PIGF	CHKB	PLA2G7	CYP2U1	AKR1B10	PLA2G5	SMPD2	B4GALT2	FUT2	ST6GALNAC6	HAGHL	PGP	ACADM	HADH	AMT	BLVRB		NT5C1A	DPYD	PTS	RDH11	UGT2A3	FDPS	CA14	SUOX	CYP3A5	CYP3A5	UPB1	ACOT2	ALDH3B2	NDUFB2	NDUFB2
+AKR1A1	GAPDH	ACLY	ALDOA	UGT1A1	HKDC1	HKDC1	UGT2B4			ACAA2		SC4MOL	BAAT		CYP17A1	NDUFB1	PAICS	POLR2J2	AGXT	PSAT1	MAT1A	MCCC2		SETMAR	PYCR2	MAOA	ADH5	GOT2	AFMID	AOC2		SCLY		G6PD	UGDH	B4GALT1	HEXA	GALNT1	RFNG	GNPDA2		HYAL1	ST3GAL2	NDST1	PPAP2A	INPPL1	PIGL	ACHE	PLA2G4E	GPX6	ALOX15	PLA2G2F	CERK	B3GNT4	GLA	ST6GALNAC3	PC	ACAT1	HIBCH	ECHS1	MTFMT			NT5C1B	VNN2	MOCS1	RDH5	BLVRA	DHDDS	CA13		CYP3A43	CYP3A43	UMPS	ACOT7	AKR1A1	NDUFB1	NDUFB1
+ADH1A	GAPDH	SDHA	ALDOB	UGT2B4	PFKFB1	LCT	UGT2B7			ACAA1		HSD17B7	HSD3B7		CYP21A2	NDUFA11	PNPT1	POLR1A	AGXT2	PIPOX	MAT2A	ECHS1		NSD1	PYCR1	MAOB	ADH6	MIF	ACAT1	AOC3		PAPSS2		G6PD	UGP2	B4GALT3	HEXA	GALNT2	B4GALT1	AMDHD2		SPAM1	CHST4	NDST4	PPAP2C	INPP5K	PIGK	CHAT	PLB1	GPX1	PLA2G4E	PLA2G12A	PPAP2A	FUT7	B3GALNT1	ST6GALNAC3	ME2	ACAT2	ABAT	HADHA	ALDH1L1			C9orf95	VNN1	MOCS2	RETSAT	BLVRB	PDSS1	CA1		CYP1A2	CYP2D6	UCKL1	ACOT4	ADH1A	NDUFA11	NDUFA11
+ADH1B	GAPDHS	SDHB	ALDOC	UGT2B7	PFKFB2	GLB1	UGT2B10			HADHB		CEL	CYP8B1		HSD3B1	NDUFAB1	PDE10A	ZNRD1	GPT	SARDH	AHCYL1	EHHADH		SUV39H1	PYCRL	ALDH3A1	ADH7	PRDX6	ACAT2	ALDH2		PAPSS1		IDH1	UGT2B11	B4GALT2	HEXB	GALNT3	B4GALT3	MPI		HYAL3	CHST2	NDST2	PPAP2B	ITPKA	PIGB	PCYT2	PLA2G2D	GPX2	PLB1	PLA2G6	PPAP2C	ABO	GBGT1	ST6GALNAC3	ME3	MCEE	ALDH2	ABAT	ALDH1L2			PNP	VNN1		RPE65	HCCS		CA2		CYP2S1	CYP1A2	UCK2	BAAT	ADH1B	NDUFAB1	NDUFAB1
+ADH1C	TPI1	SDHC	PFKL	UGT2B10	PFKFB3	PGM1	UGT2B15			ACADL		LIPA	CYP39A1		HSD3B2	NDUFA10	PDE7B	POLR1D	GPT2	PSPH	AHCY	HADHA		WHSC1	PRODH	ALDH1A3	PNMT	PAH	ECHS1	ALDH1B1		MTR		IDH2	UGT2A1	ST6GAL1	HEXDC	GALNT8	B4GALT2	PMM1		HYAL3		NDST3	AGPAT1	ITPKB	GPAA1	ETNK2	PLA2G2E	GPX5	PLA2G2D	PLA2G10	PPAP2B	FUT1		ST6GALNAC4	ME1	PCCA	ALDH1B1	GAD1	MTHFD1L			NMNAT2	BCAT1		RDH12	COX10		CA3		GSTO2	CYP2B6	UCK1	ACOT1	ADH1C	NDUFA10	NDUFA10
+ADH4	PFKL	SDHD	PFKM	UGT2B15	PFKFB4	PGM2	UGT2B17			ADH1A		SOAT1			CYP7B1	NDUFA9	PDE11A	POLR3K	CAD	SHMT1	AHCYL2	IVD		SUV39H2	LAP3	ALDH3B1	DBH		HADHA	ALDH9A1		INMT		GSS	UGT2B28	ST6GAL2	MANBA	GALNTL4	POFUT2	PMM2		HYAL2		GLCE	AGPAT2	ITPKB	PGAP1	ETNK1	PLA2G2C	GPX7	PLA2G2E	PLA2G12B	SPTLC1	FUT2		ST3GAL5	MDH1	PCCB	ALDH9A1	GAD2	ATIC			NMNAT3	BCAT2		AWAT2	FECH		CA4		GSTA5	CYP2C19	TK1	ELOVL6	ADH4	NDUFA9	NDUFA9
+ADH5	PFKM	FH	PFKP	UGT2B17	C12orf5	B4GALT1	UGT2A3			ADH1B		SOAT2			CYP11B1	NDUFA8	PDE1A	POLR2A	ALDH5A1	SHMT1	DNMT1	BCAT1		EHMT1	P4HA3	ALDH3B2	DDC		GCDH	ALDH3A2				GCLC	UGT1A1	MGAT3	ENGASE	GALNTL6	POFUT1	PGM1		HGSNAT		HS6ST3	MBOAT2	ITPK1	PIGN	PLA2G4E	PLA2G3	CYP4F3	PLA2G2C	JMJD7-PLA2G4B	SPTLC3	ST3GAL6		ST6GALNAC5	MDH2	MUT	ALDH3A2	ACADS	TYMS			NMNAT1	AASDHPPT		DGAT1	CP		CA5A		GSTA1	CYP2C8	TK2	SCD	ADH5	NDUFA8	NDUFA8
+ADH6	PFKP	ACO1	FBP1	UGT2A3	MPI	LALBA				ADH1C		CYP2R1			CYP1A1	NDUFA7	PDE1A	POLR2B	GLUD1	SHMT2	TRDMT1	BCAT2		SETD7	P4HA1	ABP1	TPO		OGDH	ALDH7A1				GCLM	UGT2B4	MGAT2	GBA	GALNT9	POGLUT1	PGM2		HEXA		HS6ST1	MBOAT2	INPP1	PIGA	PLB1	PLA2G1B	CYP4F11	PLA2G3	FADS2	SPTLC2	B3GNT2			LDHAL6A		ALDH7A1	AKR1B10	MTR			NADSYN1			CYP26A1	FTH1		CA6		GSTA2	CYP2C9	IMPDH1	SCD5	ADH6	NDUFA7	NDUFA7
+ADH7	GPI	ACO2	FBP2	UGDH	PMM1	B4GALT2				ADH4		CYP27B1			CYP3A7	NDUFA6	PDE1C	POLR2C	GLUD2	DAO	DNMT3A	ACAA2		SETDB2	P4HA2	HNMT	GSTZ1		OGDHL	UPB1				OPLAH	UGT2B7	MAN2A2	GBA	GALNT9	GXYLT1	GFPT1		HEXA		HS2ST1	MBOAT1	INPP4A	GPLD1	PLA2G2D	PLA2G2A	CYP4F2	PLA2G1B		KDSR	B3GNT1			LDHA		ACAT1	ALDH5A1	SHMT1			NAPRT1			CYP26C1	FTH1		CA7		GSTA3	CYP2C18	IMPDH2	FADS2	ADH7	NDUFA6	NDUFA6
+PDHA1	HK1	CS	PGD	DHDH	PMM2	GALE				ADH5					CYP3A4	NDUFA5	PDE2A	POLR2D	ABAT	GCAT	DNMT3B	ACAA1		DOT1L	DAO	CNDP1	HGD		ACMSD	DPYS				GGCT	UGT2B10	MAN2A1		GALNT7	GXYLT2	GFPT2		HEXB		HS3ST2	LCLAT1	INPP4B	PIGO	PLA2G2E	PLA2G4A	CYP2E1	PLA2G2A		GAL3ST1	GCNT2			LDHB		ACAT2	ACSM1	SHMT1			NAMPT			CYP26B1	FTL		CA8		GSTA4	GSTO2	CYP2A6	ELOVL5	PDHA1	NDUFA5	NDUFA5
+PDHA2	HK2	MDH1	PGLS	ALDH2	FPGT	UGP2				ADH6					CYP3A5	NDUFA4	PDE3A	POLR2E	GAD1	SDS	DNMT3L	HADHB		SUV420H2	PRODH2	ASPA	GOT1		HAAO	DPYD				GSTO2	UGT2B15	MAN1A2		GALNT10	OGT	HK1		NAGLU		HS3ST2	AGPAT3	ISYNA1	PIGW	PLA2G2C	PLA2G5	ALOX12	PLA2G4A		GLA	ST8SIA1			LDHC		ACACA	ACSM2A	SHMT2			NNMT			CYP3A7	FTMT		CA9		GSTM1	GSTA5	CYP2A7	FADS1	PDHA2	NDUFA4	NDUFA4
+PDHB	HK2	MDH2	G6PD	ALDH1B1	TSTA3	GALT				ADH7					CYP3A43	NDUFA4L2	PDE3B	POLR2F	GAD2	GLDC	ENOPH1	HADH		SETD1A	ALDH4A1	ACY3	GOT2		KYNU	CNDP1				GSTA5	UGT2B17	MAN1B1		GALNTL1	MGAT5B	HK2		GUSB		HS3ST3B1	AGPAT4	IMPA1	PIGV	PLA2G3	PLA2G2F	ALOX15	PLA2G5		NEU3	B4GALT1			LDHAL6B		ACACB	ACSM2A				NADK			CYP3A4	PPOX		CA12		GSTM2	GSTA1	CYP2A13		PDHB	NDUFA4L2	NDUFA4L2
+DLAT	HK3	PC	G6PD	ALDH3A2	GMDS	GALK1				GCDH					AKR1C4	NDUFA3	PDE4A	POLR2G	GLUL	ALAS1	SDS	ACADSB		SETDB1	GOT1	WBSCR22	MIF		KMO	ALDH3A1				GSTA1	UGT2A3	MAN1A1		GALNT11	FUT9	HK2				HS3ST3A1	MGLL	IMPA2	PIGZ	PLA2G1B	PLA2G12A	PTGS1	PLA2G2F		NEU4	B3GNT5			ACSS2		MLYCD	ACSM4				NNT			CYP3A5	UROD				GSTM3	GSTA2	CDA		DLAT	NDUFA3	NDUFA3
+LDHAL6A	HKDC1	PDHA1	RGN		GMDS	GALK2				ALDH2					AKR1C1	NDUFA2	PDE4B	POLR2H	GLS2	ALAS2	GOT1	DBT		GLT25D2	GOT2	METTL6	HPD		TDO2	ALDH1A3				GSTA2	GUSB	MAN1C1		WBSCR17	FUT4	HK3				HS3ST5	AGPAT6	MIOX	PIGG	PLA2G2A	PLA2G6	PTGS2	PLA2G12A		NEU1	B3GALT1			ACSS1		LDHAL6A	ACSM2B				AOX1			CYP3A43	UROS				GSTM4	GSTA3	CES1		LDHAL6A	NDUFA2	NDUFA2
+LDHA	GCK	PDHA2	TALDO1		GMPPB	G6PC				ALDH1B1					AKR1C2	NDUFA1	PDE4C	POLR2I	GLS	MAOA	GOT2	MUT		GLT25D1	NOS1	HEMK1	TYR		TPH2	ALDH3B1				GSTA3	KL	MGAT4B		GALNT14	FUT4	HKDC1				HS3ST1	GPAT2	PI4KA		PLA2G4A	PLA2G10	PLA2G4E	PLA2G6		NEU2	B3GALT2			ACOT12		LDHA	ACSM5							CYP1A1	HMBS				GSTM5	GSTA4	CES5A		LDHA	NDUFA1	NDUFA1
+LDHB	PGK1	PDHB	PGM1		GMPPA	G6PC2				ALDH9A1					AKR1C3	NDUFV3	PDE4D	POLR2J	CPS1	MAOB	CDO1	MCEE		PLOD3	NOS1	HEMK1	TH		TPH1	ALDH3B2				GSTA4	GYS1	MGAT4A		GALNT12	FUT7	GALK1				HS6ST2	GPAM	PI4KB		PLA2G5	PLA2G12B	PLB1	PLA2G10		UGT8	B3GALT5			ALDH2		LDHB	ACSM3							CYP1A2	ALAD				GSTP1	GSTM1	UGT2B11		LDHB	NDUFV3	NDUFV3
+LDHC	PGK2	DLAT	PGM2		PFKL					ALDH3A2					CYP11B2	NDUFV2	PDE7A	POLR2K	ALDH4A1	AOC2	MPST	PCCA		PLOD1	NOS1	LCMT1	TAT		WARS2					GSTM1	GYS2	GANAB		C1GALT1C1	UGT2B11	GALK2					AGPAT9	PI4K2B		PLA2G2F	JMJD7-PLA2G4B	PLA2G2D	PLA2G12B		GLB1	ST3GAL3			ALDH1B1		LDHC	L2HGDH							RDH10	ALAS1				GSTT1	GSTM2	UGT2A1		LDHC	NDUFV2	NDUFV2
+LDHAL6B	ADPGK	PCK1	H6PD		PFKM					ALDH7A1					AKR1D1	NDUFV1	PDE8A	POLR2L	GFPT1	AOC3	TST	PCCB		PLOD2	NOS1	METTL2B	AOC2		WARS					GSTM2	PGM1	MOGS		C1GALT1	UGT2A1	GMPPB					DAK	PI4K2A		PLA2G12A	LPCAT2	PLA2G2E	JMJD7-PLA2G4B		GBA	ST3GAL4			ALDH9A1		LDHAL6B	PDHA1							RDH8	ALAS2				GSTT1	GSTM3	UGT2B28		LDHAL6B	NDUFV1	NDUFV1
+PKLR	BPGM	PCK2			PFKP					CYP4A11					HSD11B1	NDUFS8	PDE1B	POLR3B	GFPT2	AMT	LDHAL6A	AOX1		ECHS1	NOS2	TRMT11	AOC3		AADAT					GSTM3	PGM2	ALG11		GCNT4	UGT2B28	GMPPA					GK	PIP5KL1		PLA2G6	LPCAT1	PLA2G2C			GBA				ALDH3A2		ECHS1	PDHA2							RDH16	EARS2				GSTT2	GSTM4	UGT1A1		PKLR	NDUFS8	NDUFS8
+PKM2					TPI1					CYP4A11					HSD11B2	NDUFS7	PDE8B	POLR3B	PPAT	DLD	LDHA	ALDH2		EHHADH	NOS3	LCMT2	AOX1		CCBL2					GSTM4	G6PC	STT3B			UGT1A1	FPGT					GK2	PIP5K1C		PLA2G10	LPCAT4	PLA2G3			UGCG				ALDH7A1		EHHADH	PDHB							DHRS9	EPRS				GSTZ1	GSTM5	UGT2B4		PKM2	NDUFS7	NDUFS7
+ENO1					ALDOA					ACSL1					HSD17B3	NDUFS6	ADCY1	POLR3E		GNMT	LDHB	ALDH1B1		HADHA	GATM	LCMT2	WBSCR22		CCBL1					GSTM5	G6PC2	STT3A			UGT2B4	FUK					AKR1B1	PIP5K1A		PLA2G12B	PLD1	PLA2G1B			UGCG				ACAT1		HADHA								DHRS4	MMAB				GSTK1	GSTP1	UGT2B7		ENO1	NDUFS6	NDUFS6
+ENO2					ALDOB					ACSL3					UGT2B11	NDUFS5	ADCY2	POLR1E		AGXT2	LDHC	ALDH9A1		HADH	GAMT		METTL6		ALDH2					GSTP1	GCK	ALG5			UGT2B7	GNPNAT1					ALDH2	PIP5K1A		JMJD7-PLA2G4B	PLD2	PLA2G2A			ACER1				ACAT2										DHRS4L2	COX15				MGST1	GSTT1	UGT2B10		ENO2	NDUFS5	NDUFS5
+ENO3					ALDOC					ACSL4					UGT2A1	NDUFS4	ADCY3	POLR3D			LDHAL6B	ALDH3A2		ALDH7A1	CKB		HEMK1		ALDH1B1					GSTT1	GPI	ALG2			UGT2B10	CYB5R3					ALDH1B1	PIP5K1B		DGKA	ENPP2	PLA2G4A			ACER2				ACACA										DHRS3	HMOX1				MGST2	GSTT1	UGT2B15		ENO3	NDUFS4	NDUFS4
+PGAM4					FBP1					ACSL6					UGT2B28	NDUFS3	ADCY5	POLR1B			SMS	ALDH7A1		AADAT	CKM		HEMK1		ALDH9A1					GSTT1	AGL	ALG1			UGT2B15	CYB5R2					ALDH9A1	PIK3C3		DGKB	ENPP6	PLA2G5			SPHK2				ACACB										CYP2A6	HMOX2				MGST3	GSTT2	UGT2B17		PGAM4	NDUFS3	NDUFS3
+PGAM1					FBP2					ACSL5					UGT1A1	NDUFS2	ADCY6	POLR3GL				ALDH6A1		OGDH	CKMT1B		LCMT1		ALDH3A2					GSTT2	GBE1	ALG13			UGT2B17	CYB5R1					ALDH3A2	PLCD3		DGKG		PLA2G2F			SPHK1				GRHPR										CYP2A7					GSTO1	GSTZ1	UGT2A3		PGAM1	NDUFS2	NDUFS2
+PGAM2					AKR1B10					ACSBG2					UGT2B4	NDUFS1	ADCY6	POLR1C				ABAT		OGDHL	CKMT2		METTL2B		ALDH7A1					GSTZ1	TREH	DPM1			UGT2A3	RENBP					ALDH7A1	PLCB1		DGKH		PLA2G12A			SGPL1				DLAT										CYP2A13					UGT2B11	GSTK1	CYP3A7		PGAM2	NDUFS1	NDUFS1
+BPGM					FUK					CPT1C					UGT2B7	COX17	ADCY7	NME6				HSD17B10		ACAT1	CKMT1A		TRMT11		AOX1					GSTK1	AMY1A	DPAGT1			CHST10	HEXA					GLYCTK	PLCE1		DGKQ		PLA2G6			GALC				DLD										CYP2B6					UGT2A1	MGST1	CYP3A4		BPGM	COX17	COX17
+GAPDH										CPT1A					UGT2B10	COX15	ADCY8	NME7				HIBADH		ACAT2	ADC		LCMT2		ABP1					MGST1	AMY2A	DOLK				HEXA					AKR1A1	PLCB2		DGKZ		PLA2G10			ARSA				ACYP1										CYP4A11					UGT2B28	MGST2	CYP3A5		GAPDH	COX15	COX15
+GAPDH										CPT1B					UGT2B15	COX11	ADCY9	NME1				HIBCH		GCDH	AGMAT		LCMT2		INMT					MGST2	AMY2B	ALG10B				HEXB					LPL	PLCB3		DGKE		PLA2G12B			B4GALT6				ACYP2										CYP4A11					UGT1A1	MGST3	CYP3A43		GAPDH	COX11	COX11
+GAPDH										CPT2					UGT2B17	NDUFA13	ADCY4	NME3				ACADM		ALDH2	ODC1		FAH							MGST3	PYGB	ALG8				CHI3L1					GLA	PLCB4		DGKD		JMJD7-PLA2G4B			SGMS2														CYP2C19					UGT2B4	GSTO1	GUSB		GAPDH	NDUFA13	NDUFA13
+GAPDHS										ACOX1					UGT2A3	NDUFB11	ADCY10	NME4				ACADS		ALDH1B1	ALDH18A1		TYRP1							GSTO1	PYGL	MGAT1				CHIT1					DGKA	PLCD1		DGKI		ALOX5			SGMS1														CYP2C8					UGT2B7	ADH1A	CES2		GAPDHS	NDUFB11	NDUFB11
+TPI1										ACOX3					SRD5A1	NDUFA12	POLR3F	AK3				ACAD8		ALDH3A2	ABP1									GSR	PYGM	DAD1				CHIA					DGKB	PLCG1		PPAP2A		LTA4H																	CYP2C9					UGT2B10	ADH1B			TPI1	NDUFA12	NDUFA12
+PFKL															SRD5A2	COX8A	POLR3G	CMPK2						PIPOX	ALDH2									PGD		DDOST				GMDS					DGKG	PLCG2		PPAP2C		LTC4S																	CYP2C18					UGT2B15	ADH1C			PFKL	COX8A	COX8A
+PFKM															SRD5A3	COX8C	POLR3C	CMPK1						DLST	ALDH1B1									ODC1		RPN1				GMDS					DGKH	PLCD4		PPAP2B		GGT6																	UGT2B11					UGT2B17	ADH4			PFKM	COX8C	COX8C
+PFKP															CYP19A1	COX7C	POLR3A	CTPS							ALDH9A1									SRM		RPN2				TSTA3					DGKQ	PLCZ1		PLD1		GGT1																	UGT2A1					UGT2A3	ADH5			PFKP	COX7C	COX7C
+FBP1															COMT	COX7B	POLR3H	CTPS2							ALDH3A2									SMS		TUSC3				NPL					DGKZ	IPPK		PLD2		GGT7																	UGT2B28					ALDH3A1	ADH6			FBP1	COX7B	COX7B
+FBP2															CYP1B1	COX7B2	POLR2J2	ENTPD8							ALDH7A1									RRM2B						GPI					DGKE	PIK3CA		AGPAT1		GGT5																	UGT1A1					ALDH1A3	ADH7			FBP2	COX7B2	COX7B2
+GPI															SULT1E1	COX7A1	POLR2J2	ENTPD1							SRM									RRM1						UGP2					DGKD	PIK3CA		AGPAT2		PTGIS																	UGT2B4					ALDH3B1	UGT2B11			GPI	COX7A1	COX7A1
+PGM1															CYP7A1	COX7A2	POLR1A	ENTPD3							AMD1									RRM2						GCK					DGKI	PIK3CB		MBOAT2		PTGES2																	UGT2B7					ALDH3B2	UGT2A1			PGM1	COX7A2	COX7A2
+PGM2																COX7A2L	ZNRD1	CANT1							SMS									LAP3												PIK3CD		MBOAT2		PTGES																	UGT2B10					ADH1A	UGT2B28			PGM2	COX7A2L	COX7A2L
+HK1																COX6C	POLR1D	ENTPD6							SAT2																					PIK3CG		MBOAT1		TBXAS1																	UGT2B15					ADH1B	UGT1A1			HK1	COX6C	COX6C
+HK2																SDHA	POLR3K	ENTPD5							SAT1																					ALDH6A1		LCLAT1		AKR1C3																	UGT2B17					ADH1C	UGT2B4			HK2	SDHA	SDHA
+HK2																SDHB	POLR2A	ENTPD4							MAOA																					TPI1		AGPAT3		HPGDS																	UGT2A3					ADH4	UGT2B7			HK2	SDHB	SDHB
+HK3																SDHC	POLR2B	UPRT							MAOB																					PIKFYVE		AGPAT4		PTGDS																	PNPLA4					ADH5	UGT2B10			HK3	SDHC	SDHC
+HKDC1																SDHD	POLR2C	UCKL1							GLUD1																					CDIPT		CDIPT		CBR1																						ADH6	UGT2B15			HKDC1	SDHD	SDHD
+GCK																UQCR11	POLR2D	UCK2							GLUD2																					PIK3C2A		PHOSPHO1		CBR3																						ADH7	UGT2B17			GCK	UQCR11	UQCR11
+GALM																CYC1	POLR2E	UCK1							CARNS1																					PIK3C2B		AGPAT6																								EPHX1	UGT2A3			GALM	CYC1	CYC1
+G6PC																UQCRQ	POLR2F	NT5C2																												PIK3C2G		GPAT2																								AKR1C4	CYP2A6			G6PC	UQCRQ	UQCRQ
+G6PC2																UQCR10	POLR2G	NT5C																														GPAM																								AKR1C1	CYP2A7			G6PC2	UQCR10	UQCR10
+DLD																UQCRHL	POLR2H	NT5E																														AGPAT9																								AKR1C2	CYP2A13			DLD	UQCRHL	UQCRHL
+PGK1																UQCRB	POLR2I	NT5C3																														GPD1L																								DHDH	MAOA			PGK1	UQCRB	UQCRB
+PGK2																UQCRC1	POLR2J	NT5M																														GPD1																								AKR1C3	MAOB			PGK2	UQCRC1	UQCRC1
+PCK1																UQCRC2	POLR2K	NT5C1A																														GPD2																									AOX1			PCK1	UQCRC2	UQCRC2
+PCK2																UQCRFS1	POLR2L	NT5C1B																														LCAT																									CYP2E1			PCK2	UQCRFS1	UQCRFS1
+ACSS2																UQCRH	POLR3B	UPP2																														EPT1																												ACSS2	UQCRH	UQCRH
+ACSS1																COX6B2	POLR3B	UPP1																														PNPLA6																												ACSS1	COX6B2	COX6B2
+ADPGK																COX5B	POLR3E	DPYD																														PNPLA7																												RBKS	COX5B	COX5B
+																COX6A1	POLR1E	DPYS																														LYPLA2																												DERA	COX6A1	COX6A1
+																COX6A2	POLR3D	UPB1																														CDS1																												PRPS1L1	COX6A2	COX6A2
+																COX6B1	POLR1B	CDA																														CDS2																												PRPS1	COX6B1	COX6B1
+																COX5A	POLR3GL	TXNRD2																														C17orf48																												PRPS2	COX5A	COX5A
+																TCIRG1	POLR1C	TXNRD3																														PISD																												TKT	ATP5H	ATP5H
+																ATP5H	POLD3	TXNRD1																														PLA2G15																												TKTL1	ATP5L	ATP5L
+																ATP5L	POLA2	POLD3																														PEMT																												TKTL2	ATP5A1	ATP5A1
+																ATP6V1G3	POLE3	POLA2																														PGS1																												RPIA	ATP5B	ATP5B
+																ATP6V0E2	POLA1	POLE3																														CRLS1																												RPE	ATP5C1	ATP5C1
+																ATP6V0A2	POLD1	POLA1																														MBOAT7																												LOC729020	ATP5D	ATP5D
+																ATP6V0D2	POLD2	POLD1																														TAZ																												PGD	ATP5E	ATP5E
+																ATP6V1C2	POLE	POLD2																														LPGAT1																												PGLS	ATP5F1	ATP5F1
+																ATP5A1	POLE2	POLE																																																										G6PD	ATP5G1	ATP5G1
+																ATP5B	PRIM1	POLE2																																																										G6PD	ATP5G2	ATP5G2
+																ATP6V0A4	PRIM2	PRIM1																																																										RGN	ATP5G3	ATP5G3
+																ATP5C1	POLE4	PRIM2																																																										TALDO1	ATP5I	ATP5I
+																ATP5D	POLD4	POLE4																																																										H6PD	ATP5J	ATP5J
+																ATP6V1D	ENTPD8	POLD4																																																										ADPGK	ATP5O	ATP5O
+																ATP5E	ENTPD1	DCK																																																											ATP5J2	ATP5J2
+																ATP5F1	ENTPD3	DCTD																																																											ATP5J2	ATP5J2
+																ATP5G1	ENTPD2	DUT																																																											ATP12A	ATP12A
+																ATP6V1H	NME6	DTYMK																																																											ATP4A	ATP4A
+																ATP5G2	NME7	TK1																																																											ATP4B	ATP4B
+																ATP5G3	NME1	TK2																																																											PPA2	PPA2
+																ATP5I	NME3	PNP																																																											PPA1	PPA1
+																ATP5J	NME4	TYMP																																																											LHPP	LHPP
+																ATP6V1A	AK7	TYMS																																																											COX10	COX10
+																ATP6V1B1	AK1	DHODH																																																											MT-ATP6	
+																ATP6V1B2	AK2	ITPA																																																											MT-CO1	
+																ATP6V0C	AK4	NUDT2																																																											MT-CO2	
+																ATP6V1C1	AK5																																																												MT-CO3	
+																ATP6V1E1	ADSSL1																																																												MT-CYB	
+																ATP6V0B	ADSS																																																												MT-ND1	
+																ATP6V1G2	AMPD1																																																												MT-ND2	
+																ATP6V0A1	AMPD2																																																												MT-ND3	
+																ATP6AP1	AMPD3																																																												MT-ND4	
+																ATP5O	NT5C2																																																												MT-ND4L	
+																ATP6V0E1	NT5C																																																												MT-ND5	
+																ATP6V1E2	NT5E																																																												MT-ND6	
+																ATP6V0D1	NT5C3																																																												MT-ATP8	
+																ATP6V1F	NT5M																																																													
+																ATP6V1G1	NT5C1A																																																													
+																ATP5J2	NT5C1B																																																													
+																ATP5J2	ADK																																																													
+																ATP12A	APRT																																																													
+																ATP4A	ADA																																																													
+																ATP4B	PNP																																																													
+																PPA2	GMPR																																																													
+																PPA1	GMPR2																																																													
+																LHPP	IMPDH1																																																													
+																COX10	IMPDH2																																																													
+																MT-ATP6	GMPS																																																													
+																MT-CO1	CANT1																																																													
+																MT-CO2	ENTPD6																																																													
+																MT-CO3	ENTPD5																																																													
+																MT-CYB	ENTPD4																																																													
+																MT-ND1	HPRT1																																																													
+																MT-ND2	GUK1																																																													
+																MT-ND3	GDA																																																													
+																MT-ND4	ALLC																																																													
+																MT-ND4L	PRUNE																																																													
+																MT-ND5	GUCY1A2																																																													
+																MT-ND6	GUCY1A3																																																													
+																MT-ATP8	GUCY1B3																																																													
+																	GUCY2C																																																													
+																	GUCY2F																																																													
+																	GUCY2D																																																													
+																	NPR1																																																													
+																	NPR2																																																													
+																	PDE6A																																																													
+																	PDE6C																																																													
+																	PDE6D																																																													
+																	PDE6G																																																													
+																	PDE6H																																																													
+																	PDE9A																																																													
+																	PDE6B																																																													
+																	PDE6B																																																													
+																	PDE5A																																																													
+																	PAPSS2																																																													
+																	PAPSS1																																																													
+																	ENPP1																																																													
+																	ENPP3																																																													
+																	PFAS																																																													
+																	ITPA																																																													
+																	NUDT2																																																													
+																	DGUOK																																																													
+																	NUDT5																																																													
+																	NUDT9																																																													
+																	C17orf48																																																													
+																	FHIT																																																													
+																	PKLR																																																													
+																	PKM2																																																													
+																	DCK																																																													
+																	NTPCR																																																													
+																	PRHOXNB																																																													
+																	PGM1																																																													
+																	PGM2																																																													
